@@ -22,3 +22,5 @@ wp-public/
 node_modules/
 wp/wp-config.phpwp/wp-config.php
 wp/wp-content/uploads/
+wp/wp-config.php
+wp-config.php
